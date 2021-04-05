@@ -1,0 +1,5 @@
+C:\workspace\App_Netflix\Tutuflix\obj\Debug\net5.0\Tutuflix.csprojAssemblyReference.cache
+C:\workspace\App_Netflix\Tutuflix\obj\Debug\net5.0\Tutuflix.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\App_Netflix\Tutuflix\obj\Debug\net5.0\Tutuflix.AssemblyInfoInputs.cache
+C:\workspace\App_Netflix\Tutuflix\obj\Debug\net5.0\Tutuflix.AssemblyInfo.cs
+C:\workspace\App_Netflix\Tutuflix\obj\Debug\net5.0\Tutuflix.csproj.CoreCompileInputs.cache
